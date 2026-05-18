@@ -1,0 +1,6 @@
+{
+  "name": "ClinicFlow",
+  "description": "A modern mobile-first healthcare appointment booking platform for patients.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
